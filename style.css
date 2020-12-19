@@ -1,0 +1,26 @@
+html {
+    background-color: #e9e9e9;
+
+}
+html,body {
+width: 100%;
+height: 100%;
+margin:0;
+padding:0;
+
+
+}
+
+body {  
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.component {
+    background-color: #FFFFFF;
+    height: 528px;
+    width: 408px;
+}
